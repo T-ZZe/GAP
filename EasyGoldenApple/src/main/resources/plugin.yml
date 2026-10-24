@@ -1,0 +1,4 @@
+name: EasyGoldenApple
+version: 1.0.0
+main: fr.easygoldenapple.EasyGoldenApple
+api-version: "26.3"
